@@ -12,7 +12,5 @@ This project is an interactive dashboard built to analyze FIFA World Cup data fr
 ![Capture](https://github.com/user-attachments/assets/666470d5-0140-43fd-9b35-db2879e41c88)
 
 
-## 📌 Dataset Source
-Data compiled from historical FIFA World Cup records (1930–2014).
 
 ---
